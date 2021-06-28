@@ -1,0 +1,15 @@
+Folder PATH listing
+Volume serial number is 546C-5BB9
+C:.
+|   app.py
+|   car data.csv
+|   EDA--model-implementation.ipynb
+|   random_forest.pkl
+|   tree.txt
+|   
++---.ipynb_checkpoints
+|       EDA--model-implementation-checkpoint.ipynb
+|       
+\---templates
+        index.html
+        
